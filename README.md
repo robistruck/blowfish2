@@ -7,3 +7,6 @@ The Blowfish2 cipher was released in 2005. It has exactly the same design as Blo
 It no longer works on 64-bit blocks but on 128-bit blocks like AES. 128-bit block, 64 rounds, key up to 4224 bits.
 
 Very hard security.
+
+Public domain, code free for all even for commercial applications.
+
